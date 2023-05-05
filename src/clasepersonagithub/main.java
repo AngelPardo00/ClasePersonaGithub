@@ -11,7 +11,7 @@ public class main {
         
         System.out.println("--------------------");
         System.out.println("--------------------");
-        System.out.println("Primera modificacion");
+        System.out.println("Segunda modificacion");
         System.out.println("--------------------");
         System.out.println("--------------------");
         
